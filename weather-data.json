@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-07T21:02:13.602425+00:00",
-  "lastAttemptAt": "2026-08-07T21:02:13.602425+00:00",
+  "generatedAt": "2026-08-07T21:57:45.103573+00:00",
+  "lastAttemptAt": "2026-08-07T21:57:45.103573+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms before 1am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 74. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-07T21:02:13.602425+00:00",
+      "updated": "2026-08-07T21:57:45.103573+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -607,7 +607,7 @@
           "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 77. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-07T21:02:13.602425+00:00",
+      "updated": "2026-08-07T21:57:45.103573+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms before 1am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 76. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-07T21:02:13.602425+00:00",
+      "updated": "2026-08-07T21:57:45.103573+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -1213,7 +1213,7 @@
           "detailedForecast": "A chance of showers and thunderstorms. Partly cloudy, with a low around 75."
         }
       ],
-      "updated": "2026-08-07T21:02:13.602425+00:00",
+      "updated": "2026-08-07T21:57:45.103573+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,28 +1224,28 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-07T15:00:00-05:00",
-        "endTime": "2026-08-07T16:00:00-05:00",
+        "startTime": "2026-08-07T16:00:00-05:00",
+        "endTime": "2026-08-07T17:00:00-05:00",
         "isDaytime": true,
-        "temperature": 84,
+        "temperature": 83,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 26
+          "value": 23
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 19.444444444444443
+          "value": 18.88888888888889
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
           "value": 57
         },
         "windSpeed": "9 mph",
-        "windDirection": "SSW",
-        "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=small",
-        "shortForecast": "Chance Rain Showers",
+        "windDirection": "S",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",
+        "shortForecast": "Slight Chance Showers And Thunderstorms",
         "detailedForecast": ""
       },
       "periods": [
@@ -1516,7 +1516,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms. Partly cloudy, with a low around 77."
         }
       ],
-      "updated": "2026-08-07T21:02:13.602425+00:00",
+      "updated": "2026-08-07T21:57:45.103573+00:00",
       "stale": false
     }
   }
