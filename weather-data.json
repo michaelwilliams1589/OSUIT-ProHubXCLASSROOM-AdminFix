@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-17T18:59:58.284656+00:00",
-  "lastAttemptAt": "2026-08-17T18:59:58.284656+00:00",
+  "generatedAt": "2026-08-17T19:44:50.311525+00:00",
+  "lastAttemptAt": "2026-08-17T19:44:50.311525+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,10 +12,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-17T13:00:00-05:00",
-        "endTime": "2026-08-17T14:00:00-05:00",
+        "startTime": "2026-08-17T14:00:00-05:00",
+        "endTime": "2026-08-17T15:00:00-05:00",
         "isDaytime": true,
-        "temperature": 94,
+        "temperature": 95,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -28,10 +28,10 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 48
+          "value": 46
         },
         "windSpeed": "5 mph",
-        "windDirection": "NE",
+        "windDirection": "N",
         "icon": "https://api.weather.gov/icons/land/day/few?size=small",
         "shortForecast": "Sunny",
         "detailedForecast": ""
@@ -40,7 +40,7 @@
         {
           "number": 1,
           "name": "This Afternoon",
-          "startTime": "2026-08-17T13:00:00-05:00",
+          "startTime": "2026-08-17T14:00:00-05:00",
           "endTime": "2026-08-17T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 97,
@@ -304,7 +304,7 @@
           "detailedForecast": "Partly cloudy, with a low around 74. Southeast wind around 5 mph."
         }
       ],
-      "updated": "2026-08-17T18:59:58.284656+00:00",
+      "updated": "2026-08-17T19:44:50.311525+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -607,7 +607,7 @@
           "detailedForecast": "A slight chance of rain showers after 1am. Partly cloudy, with a low around 78. Southeast wind around 10 mph."
         }
       ],
-      "updated": "2026-08-17T18:59:58.284656+00:00",
+      "updated": "2026-08-17T19:44:50.311525+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Partly cloudy, with a low around 76. Southeast wind around 10 mph."
         }
       ],
-      "updated": "2026-08-17T18:59:58.284656+00:00",
+      "updated": "2026-08-17T19:44:50.311525+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -1213,7 +1213,7 @@
           "detailedForecast": "A slight chance of showers and thunderstorms after 1am. Mostly clear, with a low around 76."
         }
       ],
-      "updated": "2026-08-17T18:59:58.284656+00:00",
+      "updated": "2026-08-17T19:44:50.311525+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,28 +1224,28 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-17T13:00:00-05:00",
-        "endTime": "2026-08-17T14:00:00-05:00",
+        "startTime": "2026-08-17T14:00:00-05:00",
+        "endTime": "2026-08-17T15:00:00-05:00",
         "isDaytime": true,
-        "temperature": 91,
+        "temperature": 94,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 6
+          "value": 15
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 22.22222222222222
+          "value": 21.666666666666668
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 54
+          "value": 48
         },
-        "windSpeed": "7 mph",
-        "windDirection": "ENE",
-        "icon": "https://api.weather.gov/icons/land/day/few?size=small",
-        "shortForecast": "Sunny",
+        "windSpeed": "6 mph",
+        "windDirection": "NE",
+        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",
+        "shortForecast": "Slight Chance Showers And Thunderstorms",
         "detailedForecast": ""
       },
       "periods": [
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Mostly clear, with a low around 79."
         }
       ],
-      "updated": "2026-08-17T18:59:58.284656+00:00",
+      "updated": "2026-08-17T19:44:50.311525+00:00",
       "stale": false
     }
   }
