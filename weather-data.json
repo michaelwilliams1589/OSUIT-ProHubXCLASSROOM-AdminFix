@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-24T22:46:22.997036+00:00",
-  "lastAttemptAt": "2026-08-24T22:46:22.997036+00:00",
+  "generatedAt": "2026-08-24T23:39:49.080754+00:00",
+  "lastAttemptAt": "2026-08-24T23:39:49.080754+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly clear, with a low around 75. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-24T22:46:22.997036+00:00",
+      "updated": "2026-08-24T23:39:49.080754+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -607,7 +607,7 @@
           "detailedForecast": "Mostly clear, with a low around 79. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-24T22:46:22.997036+00:00",
+      "updated": "2026-08-24T23:39:49.080754+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Mostly clear, with a low around 76. South wind 10 to 15 mph, with gusts as high as 20 mph."
         }
       ],
-      "updated": "2026-08-24T22:46:22.997036+00:00",
+      "updated": "2026-08-24T23:39:49.080754+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Mostly clear, with a low around 78."
         }
       ],
-      "updated": "2026-08-24T22:46:22.997036+00:00",
+      "updated": "2026-08-24T23:39:49.080754+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,10 +1224,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-24T17:00:00-05:00",
-        "endTime": "2026-08-24T18:00:00-05:00",
-        "isDaytime": true,
-        "temperature": 104,
+        "startTime": "2026-08-24T18:00:00-05:00",
+        "endTime": "2026-08-24T19:00:00-05:00",
+        "isDaytime": false,
+        "temperature": 103,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -1242,9 +1242,9 @@
           "unitCode": "wmoUnit:percent",
           "value": 27
         },
-        "windSpeed": "10 mph",
-        "windDirection": "W",
-        "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=small",
+        "windSpeed": "9 mph",
+        "windDirection": "WNW",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
         "shortForecast": "Slight Chance Showers And Thunderstorms",
         "detailedForecast": ""
       },
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Clear, with a low around 79."
         }
       ],
-      "updated": "2026-08-24T22:46:22.997036+00:00",
+      "updated": "2026-08-24T23:39:49.080754+00:00",
       "stale": false
     }
   }
